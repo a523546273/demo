@@ -152,7 +152,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
                                 <a href="http://www.xxx.com/" class='x-a' target="_blank">访问官网</a></td>
                         </tr>
                         <tr>
-                            <th>开发者1</th>
+                            <th>开发者</th>
                             <td>马志斌(113664000@qq.com)</td></tr>
                     </tbody>
                 </table>
